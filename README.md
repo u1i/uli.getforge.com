@@ -1,5 +1,5 @@
-# uli.getforge.com
+# uli.getforge.io
 
 Testing github automatic push to getforge
 
-[uli.getforge.com](uli.getforge.com)
+[uli.getforge.io](uli.getforge.io)
